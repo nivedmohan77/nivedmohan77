@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Nived 👋 
 
-<!--
-**nivedmohan77/nivedmohan77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ☁️ Azure Cloud Networking Specialist | Aspiring SRE & DevOps Engineer
 
-Here are some ideas to get you started:
+With over **5 years of experience** managing complex Azure Networking environments, I am now bridging the gap between infrastructure and automation. I specialize in building reliable, scalable, and secure cloud systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I Bring to the Table
+* **Core Expertise:** Azure Virtual Networks, ExpressRoute, VPN Gateways, and Network Security Groups (NSGs).
+* **Certifications:** Microsoft Certified: Azure Administrator Associate (**AZ-104**) & Azure Fundamentals (**AZ-900**).
+* **The DevOps Shift:** Currently mastering **Infrastructure as Code (Terraform)**, **Containerization (Docker & Kubernetes)**, and CI/CD pipelines to build "self-healing" networks.
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Cloud:** Azure (Compute, Networking, Storage)
+- **IaC:** Terraform, ARM Templates, Bicep
+- **Containers:** Docker, Kubernetes (AKS)
+- **Scripting:** PowerShell, Bash, Python
+- **Monitoring:** Azure Monitor, Log Analytics
+
+---
+
+### 📈 Current Learning Path
+- [ ] Deepening Kubernetes (K8s) Orchestration
+- [ ] Building automated CI/CD pipelines with GitHub Actions
+- [ ] Exploring Chaos Engineering for Network Reliability
+
+---
+
+### 📫 Connect with Me
+* **LinkedIn:** https://www.linkedin.com/in/nivedmohan/
+* **Goal:** Looking to collaborate on SRE projects or Azure Automation labs!
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=nivedmohan77&show_icons=true&theme=radial)
