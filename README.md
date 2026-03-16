@@ -32,5 +32,3 @@ With over **5 years of experience** managing complex Azure Networking environmen
 ### 📫 Connect with Me
 * **LinkedIn:** https://www.linkedin.com/in/nivedmohan/
 * **Goal:** Looking to collaborate on SRE projects or Azure Automation labs!
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=nivedmohan77&show_icons=true&theme=radial)
